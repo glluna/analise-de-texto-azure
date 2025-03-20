@@ -1,0 +1,1 @@
+# analise-de-texto-azure
