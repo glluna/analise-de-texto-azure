@@ -18,7 +18,7 @@ Este projeto explora os serviços de IA do Azure para análise de texto, incluin
 ![alt text](<Sentence 4.png>)
 ![alt text](<Sentence 5.png>)
 
-#Insights 
+# Insights 
 - O processo foi complexo no início devido a alguns erros durante o cadastro e também na configuração das IAs devido a erros de assinaturas, mas no final o processo terminou bem.
 - Achei a ferramenta excelentes para lojas de diversos produtos, pois ajuda na detecção de sentimentos e reações em relação a qualidade e satisfação do consumidor.
 - É uma grande evolução o uso de ferramentas de detecção de emoções em imagens abrindo infinitas possibilidades
